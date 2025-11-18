@@ -56,3 +56,19 @@ main > div{
     display: flex;
     justify-content: center;
 }
+
+.sobre{
+    flex-direction: column;
+  align-items: center;
+  padding: 0 150px;
+  font-size: 20px;
+}
+
+
+.pagamentos{
+
+}
+
+.pagamentos img{
+    height: 50px;
+}
