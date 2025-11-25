@@ -1,0 +1,19 @@
+.caixa{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    text-align: center;
+}
+
+.caixa div{
+background-color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+height: 50px;
+width: 50px;
+
+}
+

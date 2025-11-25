@@ -40,7 +40,7 @@ nav img{
 }
 
 .banner{
-    background-image: url(IMAGENS/Banner\ de\ site\ para\ loja\ de\ liquida\ inverno\ com\ desconto.png);
+    background-image: url(IMAGENS/banner1.png);
     background-size: cover;
     background-position: center;
     height: calc( 100% - 70px);
@@ -71,4 +71,16 @@ main > div{
 
 .pagamentos img{
     height: 50px;
+}
+
+.links a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.links{
+    display: flex;
+    gap: 15px;
+    flex-direction: column;
 }

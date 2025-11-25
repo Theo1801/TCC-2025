@@ -1,0 +1,55 @@
+/*quero que o paragrafo fique da cor vermelha
+
+seletor (quem?)   parágrafo
+atributo (o que?) cor
+valor (como)      vermelho 
+
+SELETOR {
+atributo: VALOR;
+}
+*/
+
+p{
+color: bisque;
+font-size: 25px;
+font-family: Arial;
+}
+h1{
+    color: gold;
+    font-size: 30px;
+    background-color: gray;
+    text-align: center;
+
+
+
+
+
+    
+}
+
+body{
+background-color: gray;
+
+}
+
+img{
+width: 200px;
+height: 200px;
+border-radius: 10px;
+border: 10px outset  rgb(9, 150, 245);
+/* solid normal
+dotted pontos
+dashed pequenas linhas
+double linha dupla
+inset sombra
+outset +uma sombra no solid
+*/
+
+
+}
+
+h1:hover{
+    color: blue
+}
+
+
